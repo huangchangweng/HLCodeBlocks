@@ -13,18 +13,20 @@
 
 #pragma mark - Public Mehtod
 
-#pragma mark - Response Event</string>
+#pragma mark - Response Event
+
+#pragma mark - Getter &amp; Setter</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D0AEA2C6-6615-495A-8C11-17CF41532AFF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>代码分区</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>#pragma mark - ...</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

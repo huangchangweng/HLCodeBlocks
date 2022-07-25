@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pstring</string>
+	<string>passign</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy) NSString *</string>
+	<string>@property (nonatomic, assign)</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF827C76-240E-4A23-ADF1-3672212628C2</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,10 +17,10 @@
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>@property (nonatomic, copy) NSString *</string>
+	<string>@property (nonatomic, assign)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

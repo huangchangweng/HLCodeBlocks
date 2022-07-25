@@ -9,7 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>+ (instancetype)sharedInstance {
+	<string>+ (instancetype)shared {
+    static &lt;#Class#&gt; *instance = nil;
     static dispatch_once_t onceToken;
     dispatch_once(&amp;onceToken, ^{
         instance = [[&lt;#Class#&gt; alloc] init];
@@ -27,6 +28,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

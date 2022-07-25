@@ -42,7 +42,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>初始化自定义xibview</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>initxib</string>
 	<key>IDECodeSnippetUserSnippet</key>
